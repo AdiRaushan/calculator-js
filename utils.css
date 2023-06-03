@@ -1,0 +1,13 @@
+.text-center {
+  text-align: center;
+}
+.bg-red {
+  background-color: rgb(12, 8, 8);
+}
+
+.mx-auto {
+  margin: auto;
+}
+.m-w-20 {
+  max-width: 20vw;
+}
