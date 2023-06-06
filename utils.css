@@ -11,3 +11,7 @@
 .m-w-20 {
   max-width: 20vw;
 }
+body {
+  width: 100px;
+  height: 100vh;
+}
